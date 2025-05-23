@@ -5,7 +5,7 @@ Welcome to my collection of professional certifications, showcasing my dedicatio
 
 ### 🔹 Data Structures & Algorithms (Java)
 - **Mastering DSA using Java**  
-  📄 [View Certificate](./DSAusingjava.pdf)
+  📄 [View Certificate](./DSA-using-java.pdf)
 
 - **DSA Specialization** – Simplilearn  
   📄 [View Certificate](./DSA-Simplilearn.pdf)
@@ -18,11 +18,11 @@ Welcome to my collection of professional certifications, showcasing my dedicatio
 
 ### 🔹 Artificial Intelligence
 - **Introduction to AI**  
-  📄 [View Certificate](./ArtificialIntelligence.pdf)
+  📄 [View Certificate](./Artificial-Intelligence.pdf)
 
 ### 🔹 Machine Learning
 - **Machine Learning-Intel**  
-  📄 [View Certificate](./MachineLearning.pdf)
+  📄 [View Certificate](./Machine-Learning.pdf)
 
 ### 🔹 Generative AI
 - **Career Essentials in Generative AI** – Microsoft  
@@ -32,20 +32,20 @@ Welcome to my collection of professional certifications, showcasing my dedicatio
 ## 💻 Full Stack Development
 
 - **Full Stack Web Development Program**  
-  📄 [View Certificate](./FullStackDevelopment.pdf)
+  📄 [View Certificate](./Full-Stack-Development.pdf)
 
 ---
 
 ## ☁️ Cloud Computing
 
 - **Cloud Computing** – NPTEL  
-  📄 [View Certificate](./CloUdComputing-NPTEL.pdf)
+  📄 [View Certificate](./Cloud-Computing-NPTEL.pdf)
 
 ---
 
 ## 🌱 Employability & Soft Skills
 - **Employability Skills Certification**  
-  📄 [View Certificate](./Employabilityskills.pdf)
+  📄 [View Certificate](./Employability-skills.pdf)
 
 ---
 
