@@ -39,7 +39,7 @@ Welcome to my collection of professional certifications, showcasing my dedicatio
 ## ☁️ Cloud Computing
 
 - **Cloud Computing** – NPTEL  
-  📄 [View Certificate](./Cloud-Computing-NPTEL.pdf)
+  📄 [View Certificate](./CloudComputing-NPTEL.pdf)
 
 ---
 
