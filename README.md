@@ -14,6 +14,10 @@ Welcome to my collection of professional certifications, showcasing my dedicatio
 - **Java Programming Essentials**  
   📄 [View Certificate](./java.pdf)
 ---
+### 🔹 Programming in java
+- **NPTEL**  
+  📄 [View Certificate](./java1.pdf)
+---
 ## 🧠 Artificial Intelligence & Machine Learning
 
 ### 🔹 Artificial Intelligence
